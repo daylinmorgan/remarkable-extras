@@ -1,0 +1,13 @@
+{
+  "templates": [
+    {
+      "name": "Dots Time",
+      "filename": "P-Dots-S-Time",
+      "iconCode": "\ue9b2",
+      "categories": [
+        "Life/organize",
+        "Custom"
+      ]
+    }
+  ]
+}
